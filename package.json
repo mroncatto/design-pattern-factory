@@ -1,0 +1,26 @@
+{
+  "name": "design-pattern-factory",
+  "version": "1.0.0",
+  "description": "Ejemplo de la aplicacion del design pattern 'Factory'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mroncatto/design-pattern-factory.git"
+  },
+  "keywords": [
+    "node",
+    "design",
+    "pattern",
+    "factory"
+  ],
+  "author": "Marcelo Roncatto Ficagna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mroncatto/design-pattern-factory/issues"
+  },
+  "homepage": "https://github.com/mroncatto/design-pattern-factory#readme",
+  "type": "module"
+}
